@@ -1,7 +1,7 @@
 # Bem-vindo ao meu Perfil do GitHub! 🤗
 
 ## 👤 Sobre Mim
-Olá! Meu nome é Mateus Daltro Ticami, estudante de Engenharia da Computação na UniFecaf. Atualmente, estou no 8º semestre e tenho previsão de conclusão para o segundo semestre de 2025. Estou apaixonado por todas as coisas relacionadas à tecnologia e estou ansioso para aprender e contribuir para projetos empolgantes.
+Olá! Meu nome é Mateus Daltro Ticami, bacharel em Engenharia da Computação na UniFecaf. Estou apaixonado por todas as coisas relacionadas à tecnologia e estou ansioso para aprender e contribuir para projetos empolgantes.
 
 ## ✉ Contato 
 - Email para contato: ticami.mateus@gmail.com
@@ -18,7 +18,6 @@ Olá! Meu nome é Mateus Daltro Ticami, estudante de Engenharia da Computação 
 ## 📖 Educação
 - **Bacharelado em Engenharia da Computação**
   - [UniFecaf]
-  - 8º Semestre, Previsão de Conclusão: 2º Semestre de 2025
 
 ## 📊 Estatísticas 
 <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Ticami&theme=transparent&hide_border=true&include_all_commits=false&count_private=false"  width="364px" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ticami&theme=transparent&hide_border=true"  width="400px" />
