@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Mateus%20Ticami&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 <a href="https://github.com/Ticami">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=4FC3F7&center=true&vCenter=true&width=520&lines=Engenharia+da+Computa%C3%A7%C3%A3o;P%C3%B3s+em+Engenharia+de+Software;Python%2C+SQL+e+automa%C3%A7%C3%A3o+de+dados" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=4FC3F7&center=true&vCenter=true&width=520&lines=Engenharia+da+Computa%C3%A7%C3%A3o;P%C3%B3s+em+Engenharia+de+Software;Python%2C+SQL+e+Automa%C3%A7%C3%A3o+de+dados" alt="Typing SVG" />
 </a>
 
 </div>
